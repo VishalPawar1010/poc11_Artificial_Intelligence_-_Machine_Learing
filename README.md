@@ -1,9 +1,9 @@
-# poc11_Artificial_Intelligence_-_Machine_Learing
-EXpploration of AI &amp; ML
+# poc11_Artificial_Intelligence_&_Machine_Learing
+Exploration of AI &amp; ML
 
 
 # udemy Course - Artificial Intelligence & Machine Learning for Business
-## Notes
+## Notes - https://www.udemy.com/course/artificial-intelligence-machine-learning-business/
 
 ### Important Books 
 1. Superintelligence by Nick Bostrom
